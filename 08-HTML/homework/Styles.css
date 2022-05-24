@@ -1,0 +1,26 @@
+h1 {
+    color:orange    
+}
+
+img {
+    width:366px
+}
+
+#thirDiv {
+    background-color:black;
+    height:500px;
+    width:600px;
+    padding:50px;
+    border:15px solid gold 
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    height:665px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3LNQJPO0tEQCV__fK57oBfRIt5Jl3vnnuUw&usqp=CAU);
+    background-repeat:repeat;
+}
